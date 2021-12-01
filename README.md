@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Hi, Im indrayanipitri . You can call me Pipit.
+Hi, I'm indrayanipitri . You can call me Pipit.
 
 - 🔭 I’m currently working on Yayasan Pendididikan Insan Istiqomah
 - 🌱 I’m currently learning ReactJs and Vue Js
