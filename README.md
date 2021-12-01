@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**indrayanipitri/indrayanipitri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hi, Im indrayanipitri . You can call me Pipit.
 
@@ -12,4 +10,3 @@ Hi, Im indrayanipitri . You can call me Pipit.
 - 📫 How to reach me: indrayanipitri@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm still here
--->
