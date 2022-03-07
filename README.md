@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-I'm Pitri Indrayani . You can call me Pipit.
+I'm Pitri Indrayani.
 
-- 🔭 I’m currently working on Yayasan Pendidikan Insan Istiqomah
 - 🌱 I’m currently learning ReactJs
 - 👯 I’m looking to collaborate on Open Source Project
 - 💬 Ask me about Anything 
